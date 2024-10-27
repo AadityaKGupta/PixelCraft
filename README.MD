@@ -123,5 +123,5 @@ You can also set color Transparency to create translucent colors and create colo
 For any inquiries or feedback, please reach out to:
 
 - **Name**: Aaditya Gupta
-- **Email**: aadityagupta@example.com
+- **Email**: k.aaditya.g@gmail.com
 - **GitHub**: [AadityaKGupta](https://github.com/AadityaKGupta)
