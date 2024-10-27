@@ -1,4 +1,5 @@
 # PixelCraft
+
 A pixel Art & Animation Creation Tool Built using HTML5 Canvas.  
 It is a Progressive Web App (PWA) with offline compatibility.  
 It is mobile-friendly and is very easy to use.  
@@ -24,7 +25,6 @@ The Eraser tool is used to erase a given pixel 1 pixel at a time. It has dimensi
 The Paint tool is used to Flood Fill a given color with a new color. It works smoothly for dimensions under 128 X 128.
 
 ![Paint tool](https://user-images.githubusercontent.com/17960677/96023668-66473200-0e70-11eb-81a2-9313b1580926.png)
-
 ![Paint tool](https://user-images.githubusercontent.com/17960677/96023679-6b0be600-0e70-11eb-8451-0d5955f2c8b4.png)
 
 ### Line Tool
@@ -43,7 +43,7 @@ The Circle Tool is used to draw a circle with a given centre and Radius using Mi
 
 ### Ellipse Tool
 
-The Ellipse Tool is used to draw an ellipse with given centre and it's radius along x-axis and y-axis.
+The Ellipse Tool is used to draw an ellipse with given centre and its radius along x-axis and y-axis.
 
 ![Ellipse Tool](https://user-images.githubusercontent.com/17960677/96024638-a0fd9a00-0e71-11eb-9171-16944bf95b40.png)
 
@@ -51,7 +51,7 @@ The Ellipse Tool is used to draw an ellipse with given centre and it's radius al
 
 ### Add Frame
 
-This tool adds the current state of canvas to the Frame Stack which can be later loaded or deleted. Each Frame is added with a delay of 100 ms, Same Frame can be multiple time to increase it's duration in GIF.
+This tool adds the current state of canvas to the Frame Stack which can be later loaded or deleted. Each Frame is added with a delay of 100 ms, Same Frame can be multiple times to increase its duration in GIF.
 
 ![Frame 1](https://user-images.githubusercontent.com/17960677/96025150-5f212380-0e72-11eb-9dce-5335a1cddcb7.png)
 ![Frame 2](https://user-images.githubusercontent.com/17960677/96025166-647e6e00-0e72-11eb-9249-1a9245b6e264.png)
@@ -86,12 +86,11 @@ This Tool is used to clear the current Canvas window.
 Before:  
 ![Clear Window](https://user-images.githubusercontent.com/17960677/96026664-73662000-0e74-11eb-8111-c46f54375056.png)  
 After:  
-![Claer Window](https://user-images.githubusercontent.com/17960677/96026681-7a8d2e00-0e74-11eb-9984-c267fb0290c9.png)  
-
+![Clear Window](https://user-images.githubusercontent.com/17960677/96026681-7a8d2e00-0e74-11eb-9984-c267fb0290c9.png)  
 
 ## Advanced Tools
 
-### Import image
+### Import Image
 
 This Tool is Used to import an image and convert it to Pixel Art of Given Dimensions.
 
@@ -117,4 +116,12 @@ You can also set color Transparency to create translucent colors and create colo
 
 ## Some Pixel Arts Made with PixelCraft
 
-<img src="https://user-images.githubusercontent.com/17960677/96029683-a14d6380-0e78-11eb-8901-bff832a4cb6e.gif" alt="canvas (1)" width="250" height="250" ><img src="https://user-images.githubusercontent.com/17960677/96029686-a3afbd80-0e78-11eb-8c03-0f407a5110fd.gif" alt="canvas (2)" width="250" height="250"><img src="https://user-images.githubusercontent.com/17960677/96029693-a4e0ea80-0e78-11eb-9528-1b303a89599e.gif" alt="canvas" width="250" height="250"><img src="https://user-images.githubusercontent.com/17960677/96029696-a5798100-0e78-11eb-8653-43ebc672f1d6.gif" alt="canvas (29)" width="250" height="250"><img src="https://user-images.githubusercontent.com/17960677/96029700-a7434480-0e78-11eb-8505-3b6539bc39d2.gif" alt="canvas (9)" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/17960677/96029683-a14d6380-0e78-11eb-8901-bff832a4cb6e.gif" alt="canvas (1)" width="250" height="250" ><img src="https://user-images.githubusercontent.com/17960677/96029686-a3afbd80-0e78-11eb-8c03-0f407a5110fd.gif" alt="canvas (2)" width="250" height="250"><img src="https://user-images.githubusercontent.com/17960677/96029693-a4e0ea80-0e78-11eb-9528-1b303a89599e.gif" alt="canvas" width="250" height="250"><img src="https://user-images.githubusercontent.com/17960677/96029696-a5798100-0e78-11eb-8653-43ebc672f1d6.gif" alt="canvas (29)" width="250" height="250"><img src="https://user-images.githubusercontent.com/17960677/96029700-a7434480-0e78-11eb-8505-3b6539bc39d2.gif" alt="canvas (9)" width="250" height="250"> 
+
+## Contact
+
+For any inquiries or feedback, please reach out to:
+
+- **Name**: Aaditya Gupta
+- **Email**: aadityagupta@example.com
+- **GitHub**: [AadityaKGupta](https://github.com/AadityaKGupta)
