@@ -118,6 +118,10 @@ You can also set color Transparency to create translucent colors and create colo
 
 <img src="https://user-images.githubusercontent.com/17960677/96029683-a14d6380-0e78-11eb-8901-bff832a4cb6e.gif" alt="canvas (1)" width="250" height="250" ><img src="https://user-images.githubusercontent.com/17960677/96029686-a3afbd80-0e78-11eb-8c03-0f407a5110fd.gif" alt="canvas (2)" width="250" height="250"><img src="https://user-images.githubusercontent.com/17960677/96029693-a4e0ea80-0e78-11eb-9528-1b303a89599e.gif" alt="canvas" width="250" height="250"><img src="https://user-images.githubusercontent.com/17960677/96029696-a5798100-0e78-11eb-8653-43ebc672f1d6.gif" alt="canvas (29)" width="250" height="250"><img src="https://user-images.githubusercontent.com/17960677/96029700-a7434480-0e78-11eb-8505-3b6539bc39d2.gif" alt="canvas (9)" width="250" height="250"> 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 For any inquiries or feedback, please reach out to:
