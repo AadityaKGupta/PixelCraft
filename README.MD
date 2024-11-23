@@ -4,6 +4,14 @@ It is a **Progressive Web App (PWA)** with offline compatibility, mobile-friendl
 
 ![PixelCraft](icons/logo.png)  
 
+---
+
+## [Live Demo](https://aadityakgupta.github.io/PixelCraft/)  
+
+Try PixelCraft now: [https://aadityakgupta.github.io/PixelCraft/](https://aadityakgupta.github.io/PixelCraft/)  
+
+---
+
 ## Features  
 - **Customizable Canvas**: Choose dimensions (default: 16x16). Dimensions below 128x128 are recommended for smooth performance.  
 - **GIF Support**: Create animations by adding frames and exporting them as GIFs.  
